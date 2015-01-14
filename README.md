@@ -3,7 +3,7 @@
 [Fig](http://www.fig.sh) is an userful orchestration tool for docker in single node,
  yet it can't be installed on boot2docker under Windows Host.
 
-The docker image helps you to run fig to serve the purpose.
+This docker image helps you to run fig to serve the purpose.
 
 ## How to use docker-fig
 
